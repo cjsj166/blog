@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Who I Am"
+    url: /who-i-am/
+  - title: "Projects"
+    url: /projects/
+  - title: "Study Notes"
+    url: /study-notes/
+  - title: "Just Notes"
+    url: /just-notes/
+  # - title: "Sitemap"
+  #   url: /sitemap/
