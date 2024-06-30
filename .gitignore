@@ -30,6 +30,9 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+<<<<<<< HEAD
 
 # Obsidian configuration
 .obsidian
+=======
+>>>>>>> 7f08b2e98788605d273eabd6e41ea168ffb3f5d8
